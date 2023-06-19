@@ -13,7 +13,7 @@ import plotly.express as px
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
-df_wine = pd.read_csv('winequality_red.csv')
+df_wine = pd.read_csv('/Users/diogopinto/Documents/VScode/greends-avcd/Examples/winequality_red.csv')
 
 # Initialize the app
 # This line is known as the Dash constructor and is responsible for initializing your app. 
@@ -47,7 +47,7 @@ app.layout = html.Div([
     Input(component_id="pca-visualization-x-slider", component_property="value"))
 
 def run_and_plot(n_components):
-    df_wine = pd.read_csv('winequality_red.csv')
+    df_wine = pd.read_csv('/Users/diogopinto/Documents/VScode/greends-avcd/Examples/wine-dash.py')
     df_wine2 = df_wine.iloc[:, 0:11]
     wine_scaled = StandardScaler().fit_transform(df_wine2)
     df = pd.DataFrame(data=wine_scaled, columns=df_wine2.columns)

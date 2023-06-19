@@ -1,0 +1,617 @@
+"NutsID","level_ID","region_name","year","temporary_crop_ID","tc_name_id","tc_name","tc_area","permanent_crop_ID","pc_name_id","pc_name","pc_area","labour_value","type_labour_ID","tl_name"
+"11",2,Norte,2019,92,1,Total,151107,36,1,Total,255954,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,96,2,Cereals,38251,36,1,Total,255954,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,100,3,Dried pulses,1913,36,1,Total,255954,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,104,4,Temporary grasses and grazings,6841,36,1,Total,255954,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,108,5,Fodder plants,96034,36,1,Total,255954,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,112,6,Potatoes,3789,36,1,Total,255954,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,116,7,Sugarbeets,0,36,1,Total,255954,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,120,8,Industrial crops,164,36,1,Total,255954,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,124,9,Fresh vegetables,3634,36,1,Total,255954,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,128,10,Flowers and ornamental plants,368,36,1,Total,255954,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,132,11,Other temporary crops,113,36,1,Total,255954,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,92,1,Total,151107,40,2,Fresh fruit plantations (excluding citrus plantations),13815,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,96,2,Cereals,38251,40,2,Fresh fruit plantations (excluding citrus plantations),13815,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,100,3,Dried pulses,1913,40,2,Fresh fruit plantations (excluding citrus plantations),13815,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,104,4,Temporary grasses and grazings,6841,40,2,Fresh fruit plantations (excluding citrus plantations),13815,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,108,5,Fodder plants,96034,40,2,Fresh fruit plantations (excluding citrus plantations),13815,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,112,6,Potatoes,3789,40,2,Fresh fruit plantations (excluding citrus plantations),13815,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,116,7,Sugarbeets,0,40,2,Fresh fruit plantations (excluding citrus plantations),13815,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,120,8,Industrial crops,164,40,2,Fresh fruit plantations (excluding citrus plantations),13815,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,124,9,Fresh vegetables,3634,40,2,Fresh fruit plantations (excluding citrus plantations),13815,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,128,10,Flowers and ornamental plants,368,40,2,Fresh fruit plantations (excluding citrus plantations),13815,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,132,11,Other temporary crops,113,40,2,Fresh fruit plantations (excluding citrus plantations),13815,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,92,1,Total,151107,44,3,Citrus plantations,1257,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,96,2,Cereals,38251,44,3,Citrus plantations,1257,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,100,3,Dried pulses,1913,44,3,Citrus plantations,1257,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,104,4,Temporary grasses and grazings,6841,44,3,Citrus plantations,1257,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,108,5,Fodder plants,96034,44,3,Citrus plantations,1257,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,112,6,Potatoes,3789,44,3,Citrus plantations,1257,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,116,7,Sugarbeets,0,44,3,Citrus plantations,1257,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,120,8,Industrial crops,164,44,3,Citrus plantations,1257,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,124,9,Fresh vegetables,3634,44,3,Citrus plantations,1257,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,128,10,Flowers and ornamental plants,368,44,3,Citrus plantations,1257,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,132,11,Other temporary crops,113,44,3,Citrus plantations,1257,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,92,1,Total,151107,48,4,Fruit plantations (subtropical climate zones),2619,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,96,2,Cereals,38251,48,4,Fruit plantations (subtropical climate zones),2619,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,100,3,Dried pulses,1913,48,4,Fruit plantations (subtropical climate zones),2619,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,104,4,Temporary grasses and grazings,6841,48,4,Fruit plantations (subtropical climate zones),2619,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,108,5,Fodder plants,96034,48,4,Fruit plantations (subtropical climate zones),2619,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,112,6,Potatoes,3789,48,4,Fruit plantations (subtropical climate zones),2619,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,116,7,Sugarbeets,0,48,4,Fruit plantations (subtropical climate zones),2619,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,120,8,Industrial crops,164,48,4,Fruit plantations (subtropical climate zones),2619,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,124,9,Fresh vegetables,3634,48,4,Fruit plantations (subtropical climate zones),2619,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,128,10,Flowers and ornamental plants,368,48,4,Fruit plantations (subtropical climate zones),2619,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,132,11,Other temporary crops,113,48,4,Fruit plantations (subtropical climate zones),2619,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,92,1,Total,151107,52,5,Nuts plantations,73849,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,96,2,Cereals,38251,52,5,Nuts plantations,73849,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,100,3,Dried pulses,1913,52,5,Nuts plantations,73849,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,104,4,Temporary grasses and grazings,6841,52,5,Nuts plantations,73849,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,108,5,Fodder plants,96034,52,5,Nuts plantations,73849,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,112,6,Potatoes,3789,52,5,Nuts plantations,73849,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,116,7,Sugarbeets,0,52,5,Nuts plantations,73849,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,120,8,Industrial crops,164,52,5,Nuts plantations,73849,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,124,9,Fresh vegetables,3634,52,5,Nuts plantations,73849,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,128,10,Flowers and ornamental plants,368,52,5,Nuts plantations,73849,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,132,11,Other temporary crops,113,52,5,Nuts plantations,73849,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,92,1,Total,151107,56,6,Olive plantations,82777,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,96,2,Cereals,38251,56,6,Olive plantations,82777,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,100,3,Dried pulses,1913,56,6,Olive plantations,82777,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,104,4,Temporary grasses and grazings,6841,56,6,Olive plantations,82777,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,108,5,Fodder plants,96034,56,6,Olive plantations,82777,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,112,6,Potatoes,3789,56,6,Olive plantations,82777,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,116,7,Sugarbeets,0,56,6,Olive plantations,82777,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,120,8,Industrial crops,164,56,6,Olive plantations,82777,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,124,9,Fresh vegetables,3634,56,6,Olive plantations,82777,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,128,10,Flowers and ornamental plants,368,56,6,Olive plantations,82777,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,132,11,Other temporary crops,113,56,6,Olive plantations,82777,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,92,1,Total,151107,60,7,Vineyards,81411,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,96,2,Cereals,38251,60,7,Vineyards,81411,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,100,3,Dried pulses,1913,60,7,Vineyards,81411,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,104,4,Temporary grasses and grazings,6841,60,7,Vineyards,81411,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,108,5,Fodder plants,96034,60,7,Vineyards,81411,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,112,6,Potatoes,3789,60,7,Vineyards,81411,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,116,7,Sugarbeets,0,60,7,Vineyards,81411,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,120,8,Industrial crops,164,60,7,Vineyards,81411,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,124,9,Fresh vegetables,3634,60,7,Vineyards,81411,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,128,10,Flowers and ornamental plants,368,60,7,Vineyards,81411,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,132,11,Other temporary crops,113,60,7,Vineyards,81411,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,92,1,Total,151107,64,8,Other permanent crops,226,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,96,2,Cereals,38251,64,8,Other permanent crops,226,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,100,3,Dried pulses,1913,64,8,Other permanent crops,226,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,104,4,Temporary grasses and grazings,6841,64,8,Other permanent crops,226,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,108,5,Fodder plants,96034,64,8,Other permanent crops,226,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,112,6,Potatoes,3789,64,8,Other permanent crops,226,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,116,7,Sugarbeets,0,64,8,Other permanent crops,226,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,120,8,Industrial crops,164,64,8,Other permanent crops,226,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,124,9,Fresh vegetables,3634,64,8,Other permanent crops,226,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,128,10,Flowers and ornamental plants,368,64,8,Other permanent crops,226,119432,1,Total labour force in agriculture
+"11",2,Norte,2019,132,11,Other temporary crops,113,64,8,Other permanent crops,226,119432,1,Total labour force in agriculture
+"15",2,Algarve,2019,136624,1,Total,12120,48708,1,Total,56754,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136628,2,Cereals,2596,48708,1,Total,56754,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136632,3,Dried pulses,106,48708,1,Total,56754,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136636,4,Temporary grasses and grazings,1659,48708,1,Total,56754,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136640,5,Fodder plants,6158,48708,1,Total,56754,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136644,6,Potatoes,83,48708,1,Total,56754,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136648,7,Sugarbeets,0,48708,1,Total,56754,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136652,8,Industrial crops,148,48708,1,Total,56754,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136656,9,Fresh vegetables,915,48708,1,Total,56754,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136660,10,Flowers and ornamental plants,276,48708,1,Total,56754,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136664,11,Other temporary crops,178,48708,1,Total,56754,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136624,1,Total,12120,48712,2,Fresh fruit plantations (excluding citrus plantations),3744,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136628,2,Cereals,2596,48712,2,Fresh fruit plantations (excluding citrus plantations),3744,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136632,3,Dried pulses,106,48712,2,Fresh fruit plantations (excluding citrus plantations),3744,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136636,4,Temporary grasses and grazings,1659,48712,2,Fresh fruit plantations (excluding citrus plantations),3744,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136640,5,Fodder plants,6158,48712,2,Fresh fruit plantations (excluding citrus plantations),3744,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136644,6,Potatoes,83,48712,2,Fresh fruit plantations (excluding citrus plantations),3744,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136648,7,Sugarbeets,0,48712,2,Fresh fruit plantations (excluding citrus plantations),3744,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136652,8,Industrial crops,148,48712,2,Fresh fruit plantations (excluding citrus plantations),3744,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136656,9,Fresh vegetables,915,48712,2,Fresh fruit plantations (excluding citrus plantations),3744,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136660,10,Flowers and ornamental plants,276,48712,2,Fresh fruit plantations (excluding citrus plantations),3744,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136664,11,Other temporary crops,178,48712,2,Fresh fruit plantations (excluding citrus plantations),3744,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136624,1,Total,12120,48716,3,Citrus plantations,13951,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136628,2,Cereals,2596,48716,3,Citrus plantations,13951,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136632,3,Dried pulses,106,48716,3,Citrus plantations,13951,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136636,4,Temporary grasses and grazings,1659,48716,3,Citrus plantations,13951,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136640,5,Fodder plants,6158,48716,3,Citrus plantations,13951,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136644,6,Potatoes,83,48716,3,Citrus plantations,13951,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136648,7,Sugarbeets,0,48716,3,Citrus plantations,13951,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136652,8,Industrial crops,148,48716,3,Citrus plantations,13951,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136656,9,Fresh vegetables,915,48716,3,Citrus plantations,13951,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136660,10,Flowers and ornamental plants,276,48716,3,Citrus plantations,13951,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136664,11,Other temporary crops,178,48716,3,Citrus plantations,13951,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136624,1,Total,12120,48720,4,Fruit plantations (subtropical climate zones),1937,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136628,2,Cereals,2596,48720,4,Fruit plantations (subtropical climate zones),1937,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136632,3,Dried pulses,106,48720,4,Fruit plantations (subtropical climate zones),1937,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136636,4,Temporary grasses and grazings,1659,48720,4,Fruit plantations (subtropical climate zones),1937,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136640,5,Fodder plants,6158,48720,4,Fruit plantations (subtropical climate zones),1937,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136644,6,Potatoes,83,48720,4,Fruit plantations (subtropical climate zones),1937,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136648,7,Sugarbeets,0,48720,4,Fruit plantations (subtropical climate zones),1937,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136652,8,Industrial crops,148,48720,4,Fruit plantations (subtropical climate zones),1937,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136656,9,Fresh vegetables,915,48720,4,Fruit plantations (subtropical climate zones),1937,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136660,10,Flowers and ornamental plants,276,48720,4,Fruit plantations (subtropical climate zones),1937,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136664,11,Other temporary crops,178,48720,4,Fruit plantations (subtropical climate zones),1937,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136624,1,Total,12120,48724,5,Nuts plantations,26179,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136628,2,Cereals,2596,48724,5,Nuts plantations,26179,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136632,3,Dried pulses,106,48724,5,Nuts plantations,26179,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136636,4,Temporary grasses and grazings,1659,48724,5,Nuts plantations,26179,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136640,5,Fodder plants,6158,48724,5,Nuts plantations,26179,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136644,6,Potatoes,83,48724,5,Nuts plantations,26179,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136648,7,Sugarbeets,0,48724,5,Nuts plantations,26179,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136652,8,Industrial crops,148,48724,5,Nuts plantations,26179,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136656,9,Fresh vegetables,915,48724,5,Nuts plantations,26179,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136660,10,Flowers and ornamental plants,276,48724,5,Nuts plantations,26179,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136664,11,Other temporary crops,178,48724,5,Nuts plantations,26179,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136624,1,Total,12120,48728,6,Olive plantations,9409,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136628,2,Cereals,2596,48728,6,Olive plantations,9409,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136632,3,Dried pulses,106,48728,6,Olive plantations,9409,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136636,4,Temporary grasses and grazings,1659,48728,6,Olive plantations,9409,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136640,5,Fodder plants,6158,48728,6,Olive plantations,9409,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136644,6,Potatoes,83,48728,6,Olive plantations,9409,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136648,7,Sugarbeets,0,48728,6,Olive plantations,9409,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136652,8,Industrial crops,148,48728,6,Olive plantations,9409,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136656,9,Fresh vegetables,915,48728,6,Olive plantations,9409,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136660,10,Flowers and ornamental plants,276,48728,6,Olive plantations,9409,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136664,11,Other temporary crops,178,48728,6,Olive plantations,9409,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136624,1,Total,12120,48732,7,Vineyards,1513,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136628,2,Cereals,2596,48732,7,Vineyards,1513,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136632,3,Dried pulses,106,48732,7,Vineyards,1513,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136636,4,Temporary grasses and grazings,1659,48732,7,Vineyards,1513,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136640,5,Fodder plants,6158,48732,7,Vineyards,1513,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136644,6,Potatoes,83,48732,7,Vineyards,1513,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136648,7,Sugarbeets,0,48732,7,Vineyards,1513,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136652,8,Industrial crops,148,48732,7,Vineyards,1513,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136656,9,Fresh vegetables,915,48732,7,Vineyards,1513,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136660,10,Flowers and ornamental plants,276,48732,7,Vineyards,1513,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136664,11,Other temporary crops,178,48732,7,Vineyards,1513,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136624,1,Total,12120,48736,8,Other permanent crops,21,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136628,2,Cereals,2596,48736,8,Other permanent crops,21,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136632,3,Dried pulses,106,48736,8,Other permanent crops,21,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136636,4,Temporary grasses and grazings,1659,48736,8,Other permanent crops,21,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136640,5,Fodder plants,6158,48736,8,Other permanent crops,21,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136644,6,Potatoes,83,48736,8,Other permanent crops,21,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136648,7,Sugarbeets,0,48736,8,Other permanent crops,21,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136652,8,Industrial crops,148,48736,8,Other permanent crops,21,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136656,9,Fresh vegetables,915,48736,8,Other permanent crops,21,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136660,10,Flowers and ornamental plants,276,48736,8,Other permanent crops,21,13720,1,Total labour force in agriculture
+"15",2,Algarve,2019,136664,11,Other temporary crops,178,48736,8,Other permanent crops,21,13720,1,Total labour force in agriculture
+"16",2,Centro,2019,67016,1,Total,171887,51428,1,Total,168086,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67020,2,Cereals,46322,51428,1,Total,168086,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67024,3,Dried pulses,3279,51428,1,Total,168086,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67028,4,Temporary grasses and grazings,13747,51428,1,Total,168086,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67032,5,Fodder plants,91275,51428,1,Total,168086,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67036,6,Potatoes,4260,51428,1,Total,168086,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67040,7,Sugarbeets,0,51428,1,Total,168086,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67044,8,Industrial crops,303,51428,1,Total,168086,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67048,9,Fresh vegetables,11597,51428,1,Total,168086,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67052,10,Flowers and ornamental plants,170,51428,1,Total,168086,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67056,11,Other temporary crops,934,51428,1,Total,168086,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67016,1,Total,171887,51432,2,Fresh fruit plantations (excluding citrus plantations),26364,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67020,2,Cereals,46322,51432,2,Fresh fruit plantations (excluding citrus plantations),26364,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67024,3,Dried pulses,3279,51432,2,Fresh fruit plantations (excluding citrus plantations),26364,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67028,4,Temporary grasses and grazings,13747,51432,2,Fresh fruit plantations (excluding citrus plantations),26364,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67032,5,Fodder plants,91275,51432,2,Fresh fruit plantations (excluding citrus plantations),26364,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67036,6,Potatoes,4260,51432,2,Fresh fruit plantations (excluding citrus plantations),26364,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67040,7,Sugarbeets,0,51432,2,Fresh fruit plantations (excluding citrus plantations),26364,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67044,8,Industrial crops,303,51432,2,Fresh fruit plantations (excluding citrus plantations),26364,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67048,9,Fresh vegetables,11597,51432,2,Fresh fruit plantations (excluding citrus plantations),26364,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67052,10,Flowers and ornamental plants,170,51432,2,Fresh fruit plantations (excluding citrus plantations),26364,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67056,11,Other temporary crops,934,51432,2,Fresh fruit plantations (excluding citrus plantations),26364,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67016,1,Total,171887,51436,3,Citrus plantations,1039,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67020,2,Cereals,46322,51436,3,Citrus plantations,1039,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67024,3,Dried pulses,3279,51436,3,Citrus plantations,1039,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67028,4,Temporary grasses and grazings,13747,51436,3,Citrus plantations,1039,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67032,5,Fodder plants,91275,51436,3,Citrus plantations,1039,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67036,6,Potatoes,4260,51436,3,Citrus plantations,1039,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67040,7,Sugarbeets,0,51436,3,Citrus plantations,1039,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67044,8,Industrial crops,303,51436,3,Citrus plantations,1039,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67048,9,Fresh vegetables,11597,51436,3,Citrus plantations,1039,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67052,10,Flowers and ornamental plants,170,51436,3,Citrus plantations,1039,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67056,11,Other temporary crops,934,51436,3,Citrus plantations,1039,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67016,1,Total,171887,51440,4,Fruit plantations (subtropical climate zones),1032,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67020,2,Cereals,46322,51440,4,Fruit plantations (subtropical climate zones),1032,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67024,3,Dried pulses,3279,51440,4,Fruit plantations (subtropical climate zones),1032,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67028,4,Temporary grasses and grazings,13747,51440,4,Fruit plantations (subtropical climate zones),1032,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67032,5,Fodder plants,91275,51440,4,Fruit plantations (subtropical climate zones),1032,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67036,6,Potatoes,4260,51440,4,Fruit plantations (subtropical climate zones),1032,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67040,7,Sugarbeets,0,51440,4,Fruit plantations (subtropical climate zones),1032,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67044,8,Industrial crops,303,51440,4,Fruit plantations (subtropical climate zones),1032,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67048,9,Fresh vegetables,11597,51440,4,Fruit plantations (subtropical climate zones),1032,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67052,10,Flowers and ornamental plants,170,51440,4,Fruit plantations (subtropical climate zones),1032,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67056,11,Other temporary crops,934,51440,4,Fruit plantations (subtropical climate zones),1032,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67016,1,Total,171887,51444,5,Nuts plantations,17008,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67020,2,Cereals,46322,51444,5,Nuts plantations,17008,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67024,3,Dried pulses,3279,51444,5,Nuts plantations,17008,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67028,4,Temporary grasses and grazings,13747,51444,5,Nuts plantations,17008,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67032,5,Fodder plants,91275,51444,5,Nuts plantations,17008,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67036,6,Potatoes,4260,51444,5,Nuts plantations,17008,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67040,7,Sugarbeets,0,51444,5,Nuts plantations,17008,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67044,8,Industrial crops,303,51444,5,Nuts plantations,17008,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67048,9,Fresh vegetables,11597,51444,5,Nuts plantations,17008,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67052,10,Flowers and ornamental plants,170,51444,5,Nuts plantations,17008,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67056,11,Other temporary crops,934,51444,5,Nuts plantations,17008,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67016,1,Total,171887,51448,6,Olive plantations,78956,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67020,2,Cereals,46322,51448,6,Olive plantations,78956,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67024,3,Dried pulses,3279,51448,6,Olive plantations,78956,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67028,4,Temporary grasses and grazings,13747,51448,6,Olive plantations,78956,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67032,5,Fodder plants,91275,51448,6,Olive plantations,78956,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67036,6,Potatoes,4260,51448,6,Olive plantations,78956,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67040,7,Sugarbeets,0,51448,6,Olive plantations,78956,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67044,8,Industrial crops,303,51448,6,Olive plantations,78956,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67048,9,Fresh vegetables,11597,51448,6,Olive plantations,78956,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67052,10,Flowers and ornamental plants,170,51448,6,Olive plantations,78956,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67056,11,Other temporary crops,934,51448,6,Olive plantations,78956,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67016,1,Total,171887,51452,7,Vineyards,42234,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67020,2,Cereals,46322,51452,7,Vineyards,42234,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67024,3,Dried pulses,3279,51452,7,Vineyards,42234,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67028,4,Temporary grasses and grazings,13747,51452,7,Vineyards,42234,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67032,5,Fodder plants,91275,51452,7,Vineyards,42234,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67036,6,Potatoes,4260,51452,7,Vineyards,42234,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67040,7,Sugarbeets,0,51452,7,Vineyards,42234,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67044,8,Industrial crops,303,51452,7,Vineyards,42234,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67048,9,Fresh vegetables,11597,51452,7,Vineyards,42234,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67052,10,Flowers and ornamental plants,170,51452,7,Vineyards,42234,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67056,11,Other temporary crops,934,51452,7,Vineyards,42234,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67016,1,Total,171887,51456,8,Other permanent crops,1453,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67020,2,Cereals,46322,51456,8,Other permanent crops,1453,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67024,3,Dried pulses,3279,51456,8,Other permanent crops,1453,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67028,4,Temporary grasses and grazings,13747,51456,8,Other permanent crops,1453,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67032,5,Fodder plants,91275,51456,8,Other permanent crops,1453,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67036,6,Potatoes,4260,51456,8,Other permanent crops,1453,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67040,7,Sugarbeets,0,51456,8,Other permanent crops,1453,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67044,8,Industrial crops,303,51456,8,Other permanent crops,1453,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67048,9,Fresh vegetables,11597,51456,8,Other permanent crops,1453,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67052,10,Flowers and ornamental plants,170,51456,8,Other permanent crops,1453,96184,1,Total labour force in agriculture
+"16",2,Centro,2019,67056,11,Other temporary crops,934,51456,8,Other permanent crops,1453,96184,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114580,1,Total,34812,86020,1,Total,16428,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114584,2,Cereals,9349,86020,1,Total,16428,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114588,3,Dried pulses,184,86020,1,Total,16428,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114592,4,Temporary grasses and grazings,1521,86020,1,Total,16428,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114596,5,Fodder plants,13637,86020,1,Total,16428,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114600,6,Potatoes,1702,86020,1,Total,16428,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114604,7,Sugarbeets,0,86020,1,Total,16428,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114608,8,Industrial crops,242,86020,1,Total,16428,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114612,9,Fresh vegetables,7749,86020,1,Total,16428,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114616,10,Flowers and ornamental plants,307,86020,1,Total,16428,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114620,11,Other temporary crops,122,86020,1,Total,16428,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114580,1,Total,34812,86024,2,Fresh fruit plantations (excluding citrus plantations),1443,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114584,2,Cereals,9349,86024,2,Fresh fruit plantations (excluding citrus plantations),1443,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114588,3,Dried pulses,184,86024,2,Fresh fruit plantations (excluding citrus plantations),1443,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114592,4,Temporary grasses and grazings,1521,86024,2,Fresh fruit plantations (excluding citrus plantations),1443,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114596,5,Fodder plants,13637,86024,2,Fresh fruit plantations (excluding citrus plantations),1443,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114600,6,Potatoes,1702,86024,2,Fresh fruit plantations (excluding citrus plantations),1443,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114604,7,Sugarbeets,0,86024,2,Fresh fruit plantations (excluding citrus plantations),1443,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114608,8,Industrial crops,242,86024,2,Fresh fruit plantations (excluding citrus plantations),1443,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114612,9,Fresh vegetables,7749,86024,2,Fresh fruit plantations (excluding citrus plantations),1443,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114616,10,Flowers and ornamental plants,307,86024,2,Fresh fruit plantations (excluding citrus plantations),1443,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114620,11,Other temporary crops,122,86024,2,Fresh fruit plantations (excluding citrus plantations),1443,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114580,1,Total,34812,86028,3,Citrus plantations,639,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114584,2,Cereals,9349,86028,3,Citrus plantations,639,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114588,3,Dried pulses,184,86028,3,Citrus plantations,639,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114592,4,Temporary grasses and grazings,1521,86028,3,Citrus plantations,639,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114596,5,Fodder plants,13637,86028,3,Citrus plantations,639,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114600,6,Potatoes,1702,86028,3,Citrus plantations,639,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114604,7,Sugarbeets,0,86028,3,Citrus plantations,639,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114608,8,Industrial crops,242,86028,3,Citrus plantations,639,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114612,9,Fresh vegetables,7749,86028,3,Citrus plantations,639,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114616,10,Flowers and ornamental plants,307,86028,3,Citrus plantations,639,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114620,11,Other temporary crops,122,86028,3,Citrus plantations,639,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114580,1,Total,34812,86032,4,Fruit plantations (subtropical climate zones),177,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114584,2,Cereals,9349,86032,4,Fruit plantations (subtropical climate zones),177,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114588,3,Dried pulses,184,86032,4,Fruit plantations (subtropical climate zones),177,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114592,4,Temporary grasses and grazings,1521,86032,4,Fruit plantations (subtropical climate zones),177,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114596,5,Fodder plants,13637,86032,4,Fruit plantations (subtropical climate zones),177,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114600,6,Potatoes,1702,86032,4,Fruit plantations (subtropical climate zones),177,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114604,7,Sugarbeets,0,86032,4,Fruit plantations (subtropical climate zones),177,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114608,8,Industrial crops,242,86032,4,Fruit plantations (subtropical climate zones),177,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114612,9,Fresh vegetables,7749,86032,4,Fruit plantations (subtropical climate zones),177,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114616,10,Flowers and ornamental plants,307,86032,4,Fruit plantations (subtropical climate zones),177,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114620,11,Other temporary crops,122,86032,4,Fruit plantations (subtropical climate zones),177,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114580,1,Total,34812,86036,5,Nuts plantations,4152,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114584,2,Cereals,9349,86036,5,Nuts plantations,4152,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114588,3,Dried pulses,184,86036,5,Nuts plantations,4152,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114592,4,Temporary grasses and grazings,1521,86036,5,Nuts plantations,4152,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114596,5,Fodder plants,13637,86036,5,Nuts plantations,4152,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114600,6,Potatoes,1702,86036,5,Nuts plantations,4152,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114604,7,Sugarbeets,0,86036,5,Nuts plantations,4152,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114608,8,Industrial crops,242,86036,5,Nuts plantations,4152,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114612,9,Fresh vegetables,7749,86036,5,Nuts plantations,4152,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114616,10,Flowers and ornamental plants,307,86036,5,Nuts plantations,4152,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114620,11,Other temporary crops,122,86036,5,Nuts plantations,4152,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114580,1,Total,34812,86040,6,Olive plantations,730,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114584,2,Cereals,9349,86040,6,Olive plantations,730,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114588,3,Dried pulses,184,86040,6,Olive plantations,730,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114592,4,Temporary grasses and grazings,1521,86040,6,Olive plantations,730,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114596,5,Fodder plants,13637,86040,6,Olive plantations,730,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114600,6,Potatoes,1702,86040,6,Olive plantations,730,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114604,7,Sugarbeets,0,86040,6,Olive plantations,730,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114608,8,Industrial crops,242,86040,6,Olive plantations,730,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114612,9,Fresh vegetables,7749,86040,6,Olive plantations,730,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114616,10,Flowers and ornamental plants,307,86040,6,Olive plantations,730,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114620,11,Other temporary crops,122,86040,6,Olive plantations,730,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114580,1,Total,34812,86044,7,Vineyards,9266,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114584,2,Cereals,9349,86044,7,Vineyards,9266,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114588,3,Dried pulses,184,86044,7,Vineyards,9266,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114592,4,Temporary grasses and grazings,1521,86044,7,Vineyards,9266,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114596,5,Fodder plants,13637,86044,7,Vineyards,9266,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114600,6,Potatoes,1702,86044,7,Vineyards,9266,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114604,7,Sugarbeets,0,86044,7,Vineyards,9266,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114608,8,Industrial crops,242,86044,7,Vineyards,9266,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114612,9,Fresh vegetables,7749,86044,7,Vineyards,9266,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114616,10,Flowers and ornamental plants,307,86044,7,Vineyards,9266,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114620,11,Other temporary crops,122,86044,7,Vineyards,9266,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114580,1,Total,34812,86048,8,Other permanent crops,20,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114584,2,Cereals,9349,86048,8,Other permanent crops,20,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114588,3,Dried pulses,184,86048,8,Other permanent crops,20,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114592,4,Temporary grasses and grazings,1521,86048,8,Other permanent crops,20,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114596,5,Fodder plants,13637,86048,8,Other permanent crops,20,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114600,6,Potatoes,1702,86048,8,Other permanent crops,20,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114604,7,Sugarbeets,0,86048,8,Other permanent crops,20,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114608,8,Industrial crops,242,86048,8,Other permanent crops,20,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114612,9,Fresh vegetables,7749,86048,8,Other permanent crops,20,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114616,10,Flowers and ornamental plants,307,86048,8,Other permanent crops,20,9520,1,Total labour force in agriculture
+"17",2,Área Metropolitana de Lisboa,2019,114620,11,Other temporary crops,122,86048,8,Other permanent crops,20,9520,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120652,1,Total,473551,90436,1,Total,358544,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120656,2,Cereals,138011,90436,1,Total,358544,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120660,3,Dried pulses,13185,90436,1,Total,358544,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120664,4,Temporary grasses and grazings,82035,90436,1,Total,358544,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120668,5,Fodder plants,199160,90436,1,Total,358544,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120672,6,Potatoes,2752,90436,1,Total,358544,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120676,7,Sugarbeets,0,90436,1,Total,358544,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120680,8,Industrial crops,9650,90436,1,Total,358544,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120684,9,Fresh vegetables,26614,90436,1,Total,358544,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120688,10,Flowers and ornamental plants,707,90436,1,Total,358544,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120692,11,Other temporary crops,1438,90436,1,Total,358544,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120652,1,Total,473551,90440,2,Fresh fruit plantations (excluding citrus plantations),5926,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120656,2,Cereals,138011,90440,2,Fresh fruit plantations (excluding citrus plantations),5926,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120660,3,Dried pulses,13185,90440,2,Fresh fruit plantations (excluding citrus plantations),5926,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120664,4,Temporary grasses and grazings,82035,90440,2,Fresh fruit plantations (excluding citrus plantations),5926,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120668,5,Fodder plants,199160,90440,2,Fresh fruit plantations (excluding citrus plantations),5926,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120672,6,Potatoes,2752,90440,2,Fresh fruit plantations (excluding citrus plantations),5926,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120676,7,Sugarbeets,0,90440,2,Fresh fruit plantations (excluding citrus plantations),5926,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120680,8,Industrial crops,9650,90440,2,Fresh fruit plantations (excluding citrus plantations),5926,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120684,9,Fresh vegetables,26614,90440,2,Fresh fruit plantations (excluding citrus plantations),5926,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120688,10,Flowers and ornamental plants,707,90440,2,Fresh fruit plantations (excluding citrus plantations),5926,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120692,11,Other temporary crops,1438,90440,2,Fresh fruit plantations (excluding citrus plantations),5926,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120652,1,Total,473551,90444,3,Citrus plantations,2260,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120656,2,Cereals,138011,90444,3,Citrus plantations,2260,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120660,3,Dried pulses,13185,90444,3,Citrus plantations,2260,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120664,4,Temporary grasses and grazings,82035,90444,3,Citrus plantations,2260,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120668,5,Fodder plants,199160,90444,3,Citrus plantations,2260,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120672,6,Potatoes,2752,90444,3,Citrus plantations,2260,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120676,7,Sugarbeets,0,90444,3,Citrus plantations,2260,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120680,8,Industrial crops,9650,90444,3,Citrus plantations,2260,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120684,9,Fresh vegetables,26614,90444,3,Citrus plantations,2260,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120688,10,Flowers and ornamental plants,707,90444,3,Citrus plantations,2260,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120692,11,Other temporary crops,1438,90444,3,Citrus plantations,2260,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120652,1,Total,473551,90448,4,Fruit plantations (subtropical climate zones),380,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120656,2,Cereals,138011,90448,4,Fruit plantations (subtropical climate zones),380,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120660,3,Dried pulses,13185,90448,4,Fruit plantations (subtropical climate zones),380,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120664,4,Temporary grasses and grazings,82035,90448,4,Fruit plantations (subtropical climate zones),380,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120668,5,Fodder plants,199160,90448,4,Fruit plantations (subtropical climate zones),380,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120672,6,Potatoes,2752,90448,4,Fruit plantations (subtropical climate zones),380,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120676,7,Sugarbeets,0,90448,4,Fruit plantations (subtropical climate zones),380,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120680,8,Industrial crops,9650,90448,4,Fruit plantations (subtropical climate zones),380,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120684,9,Fresh vegetables,26614,90448,4,Fruit plantations (subtropical climate zones),380,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120688,10,Flowers and ornamental plants,707,90448,4,Fruit plantations (subtropical climate zones),380,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120692,11,Other temporary crops,1438,90448,4,Fruit plantations (subtropical climate zones),380,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120652,1,Total,473551,90452,5,Nuts plantations,107298,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120656,2,Cereals,138011,90452,5,Nuts plantations,107298,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120660,3,Dried pulses,13185,90452,5,Nuts plantations,107298,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120664,4,Temporary grasses and grazings,82035,90452,5,Nuts plantations,107298,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120668,5,Fodder plants,199160,90452,5,Nuts plantations,107298,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120672,6,Potatoes,2752,90452,5,Nuts plantations,107298,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120676,7,Sugarbeets,0,90452,5,Nuts plantations,107298,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120680,8,Industrial crops,9650,90452,5,Nuts plantations,107298,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120684,9,Fresh vegetables,26614,90452,5,Nuts plantations,107298,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120688,10,Flowers and ornamental plants,707,90452,5,Nuts plantations,107298,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120692,11,Other temporary crops,1438,90452,5,Nuts plantations,107298,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120652,1,Total,473551,90456,6,Olive plantations,205363,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120656,2,Cereals,138011,90456,6,Olive plantations,205363,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120660,3,Dried pulses,13185,90456,6,Olive plantations,205363,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120664,4,Temporary grasses and grazings,82035,90456,6,Olive plantations,205363,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120668,5,Fodder plants,199160,90456,6,Olive plantations,205363,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120672,6,Potatoes,2752,90456,6,Olive plantations,205363,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120676,7,Sugarbeets,0,90456,6,Olive plantations,205363,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120680,8,Industrial crops,9650,90456,6,Olive plantations,205363,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120684,9,Fresh vegetables,26614,90456,6,Olive plantations,205363,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120688,10,Flowers and ornamental plants,707,90456,6,Olive plantations,205363,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120692,11,Other temporary crops,1438,90456,6,Olive plantations,205363,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120652,1,Total,473551,90460,7,Vineyards,36686,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120656,2,Cereals,138011,90460,7,Vineyards,36686,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120660,3,Dried pulses,13185,90460,7,Vineyards,36686,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120664,4,Temporary grasses and grazings,82035,90460,7,Vineyards,36686,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120668,5,Fodder plants,199160,90460,7,Vineyards,36686,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120672,6,Potatoes,2752,90460,7,Vineyards,36686,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120676,7,Sugarbeets,0,90460,7,Vineyards,36686,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120680,8,Industrial crops,9650,90460,7,Vineyards,36686,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120684,9,Fresh vegetables,26614,90460,7,Vineyards,36686,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120688,10,Flowers and ornamental plants,707,90460,7,Vineyards,36686,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120692,11,Other temporary crops,1438,90460,7,Vineyards,36686,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120652,1,Total,473551,90464,8,Other permanent crops,630,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120656,2,Cereals,138011,90464,8,Other permanent crops,630,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120660,3,Dried pulses,13185,90464,8,Other permanent crops,630,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120664,4,Temporary grasses and grazings,82035,90464,8,Other permanent crops,630,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120668,5,Fodder plants,199160,90464,8,Other permanent crops,630,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120672,6,Potatoes,2752,90464,8,Other permanent crops,630,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120676,7,Sugarbeets,0,90464,8,Other permanent crops,630,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120680,8,Industrial crops,9650,90464,8,Other permanent crops,630,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120684,9,Fresh vegetables,26614,90464,8,Other permanent crops,630,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120688,10,Flowers and ornamental plants,707,90464,8,Other permanent crops,630,54381,1,Total labour force in agriculture
+"18",2,Alentejo,2019,120692,11,Other temporary crops,1438,90464,8,Other permanent crops,630,54381,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140408,1,Total,42822,102084,1,Total,2574,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140412,2,Cereals,35,102084,1,Total,2574,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140416,3,Dried pulses,30,102084,1,Total,2574,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140420,4,Temporary grasses and grazings,14767,102084,1,Total,2574,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140424,5,Fodder plants,26703,102084,1,Total,2574,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140428,6,Potatoes,324,102084,1,Total,2574,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140432,7,Sugarbeets,0,102084,1,Total,2574,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140436,8,Industrial crops,5,102084,1,Total,2574,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140440,9,Fresh vegetables,673,102084,1,Total,2574,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140444,10,Flowers and ornamental plants,49,102084,1,Total,2574,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140448,11,Other temporary crops,235,102084,1,Total,2574,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140408,1,Total,42822,102088,2,Fresh fruit plantations (excluding citrus plantations),116,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140412,2,Cereals,35,102088,2,Fresh fruit plantations (excluding citrus plantations),116,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140416,3,Dried pulses,30,102088,2,Fresh fruit plantations (excluding citrus plantations),116,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140420,4,Temporary grasses and grazings,14767,102088,2,Fresh fruit plantations (excluding citrus plantations),116,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140424,5,Fodder plants,26703,102088,2,Fresh fruit plantations (excluding citrus plantations),116,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140428,6,Potatoes,324,102088,2,Fresh fruit plantations (excluding citrus plantations),116,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140432,7,Sugarbeets,0,102088,2,Fresh fruit plantations (excluding citrus plantations),116,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140436,8,Industrial crops,5,102088,2,Fresh fruit plantations (excluding citrus plantations),116,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140440,9,Fresh vegetables,673,102088,2,Fresh fruit plantations (excluding citrus plantations),116,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140444,10,Flowers and ornamental plants,49,102088,2,Fresh fruit plantations (excluding citrus plantations),116,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140448,11,Other temporary crops,235,102088,2,Fresh fruit plantations (excluding citrus plantations),116,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140408,1,Total,42822,102092,3,Citrus plantations,350,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140412,2,Cereals,35,102092,3,Citrus plantations,350,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140416,3,Dried pulses,30,102092,3,Citrus plantations,350,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140420,4,Temporary grasses and grazings,14767,102092,3,Citrus plantations,350,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140424,5,Fodder plants,26703,102092,3,Citrus plantations,350,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140428,6,Potatoes,324,102092,3,Citrus plantations,350,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140432,7,Sugarbeets,0,102092,3,Citrus plantations,350,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140436,8,Industrial crops,5,102092,3,Citrus plantations,350,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140440,9,Fresh vegetables,673,102092,3,Citrus plantations,350,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140444,10,Flowers and ornamental plants,49,102092,3,Citrus plantations,350,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140448,11,Other temporary crops,235,102092,3,Citrus plantations,350,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140408,1,Total,42822,102096,4,Fruit plantations (subtropical climate zones),481,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140412,2,Cereals,35,102096,4,Fruit plantations (subtropical climate zones),481,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140416,3,Dried pulses,30,102096,4,Fruit plantations (subtropical climate zones),481,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140420,4,Temporary grasses and grazings,14767,102096,4,Fruit plantations (subtropical climate zones),481,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140424,5,Fodder plants,26703,102096,4,Fruit plantations (subtropical climate zones),481,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140428,6,Potatoes,324,102096,4,Fruit plantations (subtropical climate zones),481,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140432,7,Sugarbeets,0,102096,4,Fruit plantations (subtropical climate zones),481,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140436,8,Industrial crops,5,102096,4,Fruit plantations (subtropical climate zones),481,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140440,9,Fresh vegetables,673,102096,4,Fruit plantations (subtropical climate zones),481,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140444,10,Flowers and ornamental plants,49,102096,4,Fruit plantations (subtropical climate zones),481,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140448,11,Other temporary crops,235,102096,4,Fruit plantations (subtropical climate zones),481,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140408,1,Total,42822,102100,5,Nuts plantations,97,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140412,2,Cereals,35,102100,5,Nuts plantations,97,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140416,3,Dried pulses,30,102100,5,Nuts plantations,97,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140420,4,Temporary grasses and grazings,14767,102100,5,Nuts plantations,97,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140424,5,Fodder plants,26703,102100,5,Nuts plantations,97,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140428,6,Potatoes,324,102100,5,Nuts plantations,97,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140432,7,Sugarbeets,0,102100,5,Nuts plantations,97,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140436,8,Industrial crops,5,102100,5,Nuts plantations,97,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140440,9,Fresh vegetables,673,102100,5,Nuts plantations,97,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140444,10,Flowers and ornamental plants,49,102100,5,Nuts plantations,97,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140448,11,Other temporary crops,235,102100,5,Nuts plantations,97,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140408,1,Total,42822,102104,6,Olive plantations,0,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140412,2,Cereals,35,102104,6,Olive plantations,0,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140416,3,Dried pulses,30,102104,6,Olive plantations,0,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140420,4,Temporary grasses and grazings,14767,102104,6,Olive plantations,0,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140424,5,Fodder plants,26703,102104,6,Olive plantations,0,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140428,6,Potatoes,324,102104,6,Olive plantations,0,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140432,7,Sugarbeets,0,102104,6,Olive plantations,0,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140436,8,Industrial crops,5,102104,6,Olive plantations,0,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140440,9,Fresh vegetables,673,102104,6,Olive plantations,0,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140444,10,Flowers and ornamental plants,49,102104,6,Olive plantations,0,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140448,11,Other temporary crops,235,102104,6,Olive plantations,0,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140408,1,Total,42822,102108,7,Vineyards,1424,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140412,2,Cereals,35,102108,7,Vineyards,1424,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140416,3,Dried pulses,30,102108,7,Vineyards,1424,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140420,4,Temporary grasses and grazings,14767,102108,7,Vineyards,1424,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140424,5,Fodder plants,26703,102108,7,Vineyards,1424,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140428,6,Potatoes,324,102108,7,Vineyards,1424,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140432,7,Sugarbeets,0,102108,7,Vineyards,1424,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140436,8,Industrial crops,5,102108,7,Vineyards,1424,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140440,9,Fresh vegetables,673,102108,7,Vineyards,1424,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140444,10,Flowers and ornamental plants,49,102108,7,Vineyards,1424,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140448,11,Other temporary crops,235,102108,7,Vineyards,1424,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140408,1,Total,42822,102112,8,Other permanent crops,107,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140412,2,Cereals,35,102112,8,Other permanent crops,107,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140416,3,Dried pulses,30,102112,8,Other permanent crops,107,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140420,4,Temporary grasses and grazings,14767,102112,8,Other permanent crops,107,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140424,5,Fodder plants,26703,102112,8,Other permanent crops,107,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140428,6,Potatoes,324,102112,8,Other permanent crops,107,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140432,7,Sugarbeets,0,102112,8,Other permanent crops,107,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140436,8,Industrial crops,5,102112,8,Other permanent crops,107,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140440,9,Fresh vegetables,673,102112,8,Other permanent crops,107,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140444,10,Flowers and ornamental plants,49,102112,8,Other permanent crops,107,10594,1,Total labour force in agriculture
+"20",2,Região Autónoma dos Açores ,2019,140448,11,Other temporary crops,235,102112,8,Other permanent crops,107,10594,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148240,1,Total,2085,107780,1,Total,2322,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148244,2,Cereals,34,107780,1,Total,2322,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148248,3,Dried pulses,0,107780,1,Total,2322,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148252,4,Temporary grasses and grazings,7,107780,1,Total,2322,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148256,5,Fodder plants,77,107780,1,Total,2322,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148260,6,Potatoes,473,107780,1,Total,2322,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148264,7,Sugarbeets,0,107780,1,Total,2322,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148268,8,Industrial crops,180,107780,1,Total,2322,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148272,9,Fresh vegetables,814,107780,1,Total,2322,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148276,10,Flowers and ornamental plants,45,107780,1,Total,2322,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148280,11,Other temporary crops,456,107780,1,Total,2322,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148240,1,Total,2085,107784,2,Fresh fruit plantations (excluding citrus plantations),267,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148244,2,Cereals,34,107784,2,Fresh fruit plantations (excluding citrus plantations),267,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148248,3,Dried pulses,0,107784,2,Fresh fruit plantations (excluding citrus plantations),267,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148252,4,Temporary grasses and grazings,7,107784,2,Fresh fruit plantations (excluding citrus plantations),267,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148256,5,Fodder plants,77,107784,2,Fresh fruit plantations (excluding citrus plantations),267,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148260,6,Potatoes,473,107784,2,Fresh fruit plantations (excluding citrus plantations),267,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148264,7,Sugarbeets,0,107784,2,Fresh fruit plantations (excluding citrus plantations),267,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148268,8,Industrial crops,180,107784,2,Fresh fruit plantations (excluding citrus plantations),267,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148272,9,Fresh vegetables,814,107784,2,Fresh fruit plantations (excluding citrus plantations),267,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148276,10,Flowers and ornamental plants,45,107784,2,Fresh fruit plantations (excluding citrus plantations),267,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148280,11,Other temporary crops,456,107784,2,Fresh fruit plantations (excluding citrus plantations),267,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148240,1,Total,2085,107788,3,Citrus plantations,118,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148244,2,Cereals,34,107788,3,Citrus plantations,118,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148248,3,Dried pulses,0,107788,3,Citrus plantations,118,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148252,4,Temporary grasses and grazings,7,107788,3,Citrus plantations,118,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148256,5,Fodder plants,77,107788,3,Citrus plantations,118,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148260,6,Potatoes,473,107788,3,Citrus plantations,118,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148264,7,Sugarbeets,0,107788,3,Citrus plantations,118,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148268,8,Industrial crops,180,107788,3,Citrus plantations,118,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148272,9,Fresh vegetables,814,107788,3,Citrus plantations,118,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148276,10,Flowers and ornamental plants,45,107788,3,Citrus plantations,118,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148280,11,Other temporary crops,456,107788,3,Citrus plantations,118,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148240,1,Total,2085,107792,4,Fruit plantations (subtropical climate zones),1076,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148244,2,Cereals,34,107792,4,Fruit plantations (subtropical climate zones),1076,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148248,3,Dried pulses,0,107792,4,Fruit plantations (subtropical climate zones),1076,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148252,4,Temporary grasses and grazings,7,107792,4,Fruit plantations (subtropical climate zones),1076,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148256,5,Fodder plants,77,107792,4,Fruit plantations (subtropical climate zones),1076,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148260,6,Potatoes,473,107792,4,Fruit plantations (subtropical climate zones),1076,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148264,7,Sugarbeets,0,107792,4,Fruit plantations (subtropical climate zones),1076,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148268,8,Industrial crops,180,107792,4,Fruit plantations (subtropical climate zones),1076,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148272,9,Fresh vegetables,814,107792,4,Fruit plantations (subtropical climate zones),1076,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148276,10,Flowers and ornamental plants,45,107792,4,Fruit plantations (subtropical climate zones),1076,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148280,11,Other temporary crops,456,107792,4,Fruit plantations (subtropical climate zones),1076,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148240,1,Total,2085,107796,5,Nuts plantations,123,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148244,2,Cereals,34,107796,5,Nuts plantations,123,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148248,3,Dried pulses,0,107796,5,Nuts plantations,123,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148252,4,Temporary grasses and grazings,7,107796,5,Nuts plantations,123,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148256,5,Fodder plants,77,107796,5,Nuts plantations,123,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148260,6,Potatoes,473,107796,5,Nuts plantations,123,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148264,7,Sugarbeets,0,107796,5,Nuts plantations,123,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148268,8,Industrial crops,180,107796,5,Nuts plantations,123,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148272,9,Fresh vegetables,814,107796,5,Nuts plantations,123,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148276,10,Flowers and ornamental plants,45,107796,5,Nuts plantations,123,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148280,11,Other temporary crops,456,107796,5,Nuts plantations,123,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148240,1,Total,2085,107800,6,Olive plantations,0,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148244,2,Cereals,34,107800,6,Olive plantations,0,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148248,3,Dried pulses,0,107800,6,Olive plantations,0,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148252,4,Temporary grasses and grazings,7,107800,6,Olive plantations,0,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148256,5,Fodder plants,77,107800,6,Olive plantations,0,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148260,6,Potatoes,473,107800,6,Olive plantations,0,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148264,7,Sugarbeets,0,107800,6,Olive plantations,0,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148268,8,Industrial crops,180,107800,6,Olive plantations,0,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148272,9,Fresh vegetables,814,107800,6,Olive plantations,0,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148276,10,Flowers and ornamental plants,45,107800,6,Olive plantations,0,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148280,11,Other temporary crops,456,107800,6,Olive plantations,0,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148240,1,Total,2085,107804,7,Vineyards,719,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148244,2,Cereals,34,107804,7,Vineyards,719,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148248,3,Dried pulses,0,107804,7,Vineyards,719,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148252,4,Temporary grasses and grazings,7,107804,7,Vineyards,719,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148256,5,Fodder plants,77,107804,7,Vineyards,719,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148260,6,Potatoes,473,107804,7,Vineyards,719,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148264,7,Sugarbeets,0,107804,7,Vineyards,719,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148268,8,Industrial crops,180,107804,7,Vineyards,719,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148272,9,Fresh vegetables,814,107804,7,Vineyards,719,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148276,10,Flowers and ornamental plants,45,107804,7,Vineyards,719,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148280,11,Other temporary crops,456,107804,7,Vineyards,719,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148240,1,Total,2085,107808,8,Other permanent crops,19,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148244,2,Cereals,34,107808,8,Other permanent crops,19,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148248,3,Dried pulses,0,107808,8,Other permanent crops,19,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148252,4,Temporary grasses and grazings,7,107808,8,Other permanent crops,19,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148256,5,Fodder plants,77,107808,8,Other permanent crops,19,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148260,6,Potatoes,473,107808,8,Other permanent crops,19,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148264,7,Sugarbeets,0,107808,8,Other permanent crops,19,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148268,8,Industrial crops,180,107808,8,Other permanent crops,19,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148272,9,Fresh vegetables,814,107808,8,Other permanent crops,19,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148276,10,Flowers and ornamental plants,45,107808,8,Other permanent crops,19,10678,1,Total labour force in agriculture
+"30",2,Região Autónoma da Madeira ,2019,148280,11,Other temporary crops,456,107808,8,Other permanent crops,19,10678,1,Total labour force in agriculture

@@ -1,0 +1,101 @@
+"NutsID","level_ID","region_name","year","pc_name","tc_name","pc_area","tc_area","labour_value","labour_type_id","ratio_pc_tc"
+"111",3,Alto Minho,1989,Total,Total,7040,69228,51652,1,0.1017
+"111",3,Alto Minho,1999,Total,Total,5946,30959,27149,1,0.1921
+"111",3,Alto Minho,2009,Total,Total,5115,19731,19355,1,0.2592
+"111",3,Alto Minho,2019,Total,Total,6483,11226,12493,1,0.5775
+"112",3,Cávado,1989,Total,Total,7108,63536,36593,1,0.1119
+"112",3,Cávado,1999,Total,Total,5351,42170,22074,1,0.1269
+"112",3,Cávado,2009,Total,Total,3080,33614,13810,1,0.0916
+"112",3,Cávado,2019,Total,Total,3494,28190,9974,1,0.1239
+"119",3,Ave,1989,Total,Total,9340,66078,33758,1,0.1413
+"119",3,Ave,1999,Total,Total,6247,36892,18353,1,0.1693
+"119",3,Ave,2009,Total,Total,4184,22565,11508,1,0.1854
+"119",3,Ave,2019,Total,Total,5167,16293,8725,1,0.3171
+"11A",3,Área Metropolitana do Porto,1989,Total,Total,5708,72530,41819,1,0.0787
+"11A",3,Área Metropolitana do Porto,1999,Total,Total,3494,49487,23731,1,0.0706
+"11A",3,Área Metropolitana do Porto,2009,Total,Total,2468,40129,14675,1,0.0615
+"11A",3,Área Metropolitana do Porto,2019,Total,Total,3459,32814,10831,1,0.1054
+"11B",3,Alto Tâmega,1989,Total,Total,21537,61504,28037,1,0.3502
+"11B",3,Alto Tâmega,1999,Total,Total,22592,41357,22754,1,0.5463
+"11B",3,Alto Tâmega,2009,Total,Total,21263,24810,16755,1,0.8570
+"11B",3,Alto Tâmega,2019,Total,Total,25031,14600,13973,1,1.7145
+"11C",3,Tâmega e Sousa,1989,Total,Total,15402,73840,51885,1,0.2086
+"11C",3,Tâmega e Sousa,1999,Total,Total,13947,39085,29689,1,0.3568
+"11C",3,Tâmega e Sousa,2009,Total,Total,11801,21721,18433,1,0.5433
+"11C",3,Tâmega e Sousa,2019,Total,Total,14262,10885,13827,1,1.3102
+"11D",3,Douro,1989,Total,Total,94062,35760,46522,1,2.6304
+"11D",3,Douro,1999,Total,Total,92607,16781,41519,1,5.5186
+"11D",3,Douro,2009,Total,Total,89076,9487,32578,1,9.3893
+"11D",3,Douro,2019,Total,Total,94928,5859,29894,1,16.2021
+"11E",3,Terras de Trás-os-Montes,1989,Total,Total,63540,91575,27590,1,0.6939
+"11E",3,Terras de Trás-os-Montes,1999,Total,Total,78139,60219,18784,1,1.2976
+"11E",3,Terras de Trás-os-Montes,2009,Total,Total,81560,34009,20974,1,2.3982
+"11E",3,Terras de Trás-os-Montes,2019,Total,Total,103132,31241,19715,1,3.3012
+"150",3,Algarve,1989,Total,Total,59888,39606,30061,1,1.5121
+"150",3,Algarve,1999,Total,Total,56309,20190,16946,1,2.7890
+"150",3,Algarve,2009,Total,Total,45007,8193,11432,1,5.4933
+"150",3,Algarve,2019,Total,Total,56754,12120,13720,1,4.6827
+"16B",3,Oeste,1989,Total,Total,57050,47013,45016,1,1.2135
+"16B",3,Oeste,1999,Total,Total,41667,36102,26854,1,1.1541
+"16B",3,Oeste,2009,Total,Total,28792,25720,16191,1,1.1194
+"16B",3,Oeste,2019,Total,Total,30363,23967,16687,1,1.2669
+"16D",3,Região de Aveiro,1989,Total,Total,6856,49990,36293,1,0.1371
+"16D",3,Região de Aveiro,1999,Total,Total,4806,33200,18529,1,0.1448
+"16D",3,Região de Aveiro,2009,Total,Total,3020,23209,11368,1,0.1301
+"16D",3,Região de Aveiro,2019,Total,Total,3291,19619,7911,1,0.1677
+"16E",3,Região de Coimbra,1989,Total,Total,19540,76376,60556,1,0.2558
+"16E",3,Região de Coimbra,1999,Total,Total,16295,53181,35536,1,0.3064
+"16E",3,Região de Coimbra,2009,Total,Total,11471,33487,20908,1,0.3426
+"16E",3,Região de Coimbra,2019,Total,Total,12164,26162,14202,1,0.4649
+"16F",3,Região de Leiria,1989,Total,Total,16707,23323,30272,1,0.7163
+"16F",3,Região de Leiria,1999,Total,Total,14586,16062,18562,1,0.9081
+"16F",3,Região de Leiria,2009,Total,Total,7821,8020,10281,1,0.9752
+"16F",3,Região de Leiria,2019,Total,Total,8054,6490,7207,1,1.2410
+"16G",3,Viseu Dão Lafões,1989,Total,Total,13248,83287,60775,1,0.1591
+"16G",3,Viseu Dão Lafões,1999,Total,Total,12609,41935,34937,1,0.3007
+"16G",3,Viseu Dão Lafões,2009,Total,Total,11666,20710,22945,1,0.5633
+"16G",3,Viseu Dão Lafões,2019,Total,Total,12532,12314,17733,1,1.0177
+"16H",3,Beira Baixa,1989,Total,Total,38241,56303,22150,1,0.6792
+"16H",3,Beira Baixa,1999,Total,Total,35584,57739,13045,1,0.6163
+"16H",3,Beira Baixa,2009,Total,Total,25969,37634,8910,1,0.6900
+"16H",3,Beira Baixa,2019,Total,Total,31016,22346,6999,1,1.3880
+"16I",3,Médio Tejo,1989,Total,Total,45033,25141,29777,1,1.7912
+"16I",3,Médio Tejo,1999,Total,Total,35562,17564,16272,1,2.0247
+"16I",3,Médio Tejo,2009,Total,Total,24016,10420,11565,1,2.3048
+"16I",3,Médio Tejo,2019,Total,Total,21784,11481,7134,1,1.8974
+"16J",3,Beiras e Serra da Estrela,1989,Total,Total,56031,125649,52886,1,0.4459
+"16J",3,Beiras e Serra da Estrela,1999,Total,Total,52069,89400,32331,1,0.5824
+"16J",3,Beiras e Serra da Estrela,2009,Total,Total,44848,53538,21640,1,0.8377
+"16J",3,Beiras e Serra da Estrela,2019,Total,Total,48881,49508,18311,1,0.9873
+"170",3,Área Metropolitana de Lisboa,1989,Total,Total,23694,57899,29512,1,0.4092
+"170",3,Área Metropolitana de Lisboa,1999,Total,Total,14732,42353,16741,1,0.3478
+"170",3,Área Metropolitana de Lisboa,2009,Total,Total,14060,34888,10273,1,0.4030
+"170",3,Área Metropolitana de Lisboa,2019,Total,Total,16428,34812,9520,1,0.4719
+"181",3,Alentejo Litoral,1989,Total,Total,6965,85536,11993,1,0.0814
+"181",3,Alentejo Litoral,1999,Total,Total,6915,70995,7410,1,0.0974
+"181",3,Alentejo Litoral,2009,Total,Total,28759,58770,6086,1,0.4893
+"181",3,Alentejo Litoral,2019,Total,Total,42174,68247,11646,1,0.6180
+"184",3,Baixo Alentejo,1989,Total,Total,53425,245789,15659,1,0.2174
+"184",3,Baixo Alentejo,1999,Total,Total,57333,228344,11175,1,0.2511
+"184",3,Baixo Alentejo,2009,Total,Total,87451,165816,12318,1,0.5274
+"184",3,Baixo Alentejo,2019,Total,Total,148715,150201,13232,1,0.9901
+"185",3,Lezíria do Tejo,1989,Total,Total,48014,87087,31676,1,0.5513
+"185",3,Lezíria do Tejo,1999,Total,Total,31032,89517,19569,1,0.3467
+"185",3,Lezíria do Tejo,2009,Total,Total,29993,69908,12242,1,0.4290
+"185",3,Lezíria do Tejo,2019,Total,Total,34811,77228,10198,1,0.4508
+"186",3,Alto Alentejo,1989,Total,Total,63482,130825,16210,1,0.4852
+"186",3,Alto Alentejo,1999,Total,Total,54279,110444,11929,1,0.4915
+"186",3,Alto Alentejo,2009,Total,Total,57122,61353,7204,1,0.9310
+"186",3,Alto Alentejo,2019,Total,Total,63527,68334,7906,1,0.9297
+"187",3,Alentejo Central,1989,Total,Total,49057,202055,19316,1,0.2428
+"187",3,Alentejo Central,1999,Total,Total,43131,154438,13648,1,0.2793
+"187",3,Alentejo Central,2009,Total,Total,47682,105803,10050,1,0.4507
+"187",3,Alentejo Central,2019,Total,Total,69317,109541,11398,1,0.6328
+"200",3,Região Autónoma dos Açores,1989,Total,Total,4769,20784,20344,1,0.2295
+"200",3,Região Autónoma dos Açores,1999,Total,Total,3662,17355,15452,1,0.2110
+"200",3,Região Autónoma dos Açores,2009,Total,Total,2021,22032,11532,1,0.0917
+"200",3,Região Autónoma dos Açores,2019,Total,Total,2574,42822,10594,1,0.0601
+"300",3,Região Autónoma da Madeira ,1989,Total,Total,3679,4580,19681,1,0.8033
+"300",3,Região Autónoma da Madeira ,1999,Total,Total,2735,3565,13156,1,0.7672
+"300",3,Região Autónoma da Madeira ,2009,Total,Total,2482,2901,14360,1,0.8556
+"300",3,Região Autónoma da Madeira ,2019,Total,Total,2322,2085,10678,1,1.1137
